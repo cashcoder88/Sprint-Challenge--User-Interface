@@ -209,3 +209,38 @@ footer nav a {
 
 /* ABOUT.HTML CSS */
 
+.about-top {
+    padding: 0 25px 20px 25px;
+    margin-bottom: 30px;
+    border-bottom: 1.5px dashed black;
+    display: flex;
+}
+
+.about-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.about-sec {
+    height: 420px;
+    width: 370px;
+    margin: 20px 0 5px 2px;
+    border-bottom: 1px dashed black;
+}
+
+button {
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 127px;
+    height: 40px;
+    border-radius: 10px;
+    padding-bottom: 0px;
+    font-size: 18px;
+}
+
+.about-bottom {
+    padding: 25px 25px 20px 25px;
+    margin-bottom: 30px;;
+    display: flex;
+}
