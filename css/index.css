@@ -166,3 +166,43 @@ footer nav a {
   text-decoration: none;
   color: black;
 }
+
+#first {
+  background-color: teal;
+}
+
+#second {
+  background-color: gold;
+}
+
+#third {
+  background-color: cadetblue;
+}
+
+#fourth {
+  background-color: coral;
+}
+
+#fifth {
+  background-color: crimson;
+}
+
+#sixth {
+  background-color: forestgreen;
+}
+
+#seventh {
+  background-color: darkorchid;
+}
+
+#eigth {
+  background-color: hotpink;
+}
+
+#ninth {
+  background-color: indigo;
+}
+
+#tenth {
+  background-color: dodgerblue;
+}
