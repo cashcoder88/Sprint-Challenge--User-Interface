@@ -144,3 +144,176 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.img, .imgAbout {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img1, .img1About {
+    margin-bottom: 10px;
+}
+
+.header-content, .header-content-about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-top {
+  margin: 34px;
+  text-decoration: none;
+  color: black;
+}
+
+#first {
+  background-color: teal;
+}
+
+#second {
+  background-color: gold;
+}
+
+#third {
+  background-color: cadetblue;
+}
+
+#fourth {
+  background-color: coral;
+}
+
+#fifth {
+  background-color: crimson;
+}
+
+#sixth {
+  background-color: forestgreen;
+}
+
+#seventh {
+  background-color: darkorchid;
+}
+
+#eigth {
+  background-color: hotpink;
+}
+
+#ninth {
+  background-color: indigo;
+}
+
+#tenth {
+  background-color: dodgerblue;
+}
+
+/* ABOUT.HTML CSS */
+
+.about-top {
+    padding: 0 25px 20px 25px;
+    margin-bottom: 30px;
+    border-bottom: 1.5px dashed black;
+    display: flex;
+}
+
+.about-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.about-sec {
+    height: 420px;
+    width: 370px;
+    margin: 20px 0 5px 2px;
+    border-bottom: 1px dashed black;
+}
+
+button {
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 127px;
+    height: 40px;
+    border-radius: 10px;
+    padding-bottom: 0px;
+    font-size: 18px;
+}
+
+.about-bottom {
+    padding: 25px 25px 20px 25px;
+    margin-bottom: 30px;;
+    display: flex;
+}
+
+/*Products HTML Stretch CSS*/
+
+.headerS {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.navS {
+    margin-bottom: 10px;
+}
+
+.services-header-img {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border
+}
+
+
+
+.top-text {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid black;
+   
+}
+
+.top-text h2 {
+    font-size: 25px;
+}
+
+.main-text {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 1);
+    height: 300px;
+    width: 340px;
+    color: white;
+}
+
+.services-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.services-main h2 {
+    font-size: 20px;
+}
+
+.services-main button {
+    width: 80px;
+    height: 45px;
+    border: .5px solid black;
+}
+
+
+
+.services-bottom {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    margin: 10px;
+    border-top: 1px solid black;
+    padding: 20px;
+}
