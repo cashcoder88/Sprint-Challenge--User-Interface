@@ -145,16 +145,16 @@ footer nav a {
     text-decoration: none;
 }
 
-.img {
+.img, .imgAbout {
     margin-bottom: 20px;
     margin-top: 20px;
 }
 
-.img1 {
+.img1, .img1About {
     margin-bottom: 10px;
 }
 
-.header-content {
+.header-content, .header-content-about {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -208,3 +208,4 @@ footer nav a {
 }
 
 /* ABOUT.HTML CSS */
+
